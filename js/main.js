@@ -40,7 +40,7 @@ function MudaDesenho() {
   leao: "./img/leao.jpg",
   virgem: "./img/virgem.webp",
   libra: "./img/libra.jpg",
-  escorpiao: "./img/escorpiao.webp", // cuidado com o nome, "wscorpiao"
+  escorpiao: "./img/escorpiao.webp",
   sagitario: "./img/sagitario.webp",
   capricornio: "./img/capricornio.png",
   aquario: "./img/aquario.png",
