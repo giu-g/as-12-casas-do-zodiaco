@@ -33,19 +33,19 @@ function MudaDesenho() {
   }
 
   const imagens = {
-    aries: "https://upload.wikimedia.org/wikipedia/pt/0/04/Mu_de_Aries.jpg",
-    touro: "https://upload.wikimedia.org/wikipedia/pt/5/5a/Aldebaran_de_Touro.jpg",
-    gemeos: "https://upload.wikimedia.org/wikipedia/pt/2/25/Saga_e_Kanon_de_Gemeos.jpg",
-    cancer: "https://upload.wikimedia.org/wikipedia/pt/b/b9/Mascara_da_Morte_de_Cancer.jpg",
-    leao: "https://upload.wikimedia.org/wikipedia/pt/d/d3/Aiolia_de_Leao.jpg",
-    virgem: "https://upload.wikimedia.org/wikipedia/pt/3/3e/Shaka_de_Virgem.jpg",
-    libra: "https://upload.wikimedia.org/wikipedia/pt/1/1f/Dohko_de_Libra.jpg",
-    escorpiao: "https://upload.wikimedia.org/wikipedia/pt/c/c4/Milo_de_Escorpiao.jpg",
-    sagitario: "https://upload.wikimedia.org/wikipedia/pt/b/be/Aiolos_de_Sagitario.jpg",
-    capricornio: "https://upload.wikimedia.org/wikipedia/pt/8/8d/Shura_de_Capricornio.jpg",
-    aquario: "https://upload.wikimedia.org/wikipedia/pt/4/41/Camus_de_Aquario.jpg",
-    peixes: "https://upload.wikimedia.org/wikipedia/pt/d/d2/Afrodite_de_Peixes.jpg"
-  };
+  aries: "./img/aries.webp",
+  touro: "./img/touro.jpg",
+  gemeos: "./img/gemeos.jpg",
+  cancer: "./img/cancer.jpg",
+  leao: "./img/leao.jpg",
+  virgem: "./img/virgem.webp",
+  libra: "./img/libra.jpg",
+  escorpiao: "./img/wscorpiao.webp", // cuidado com o nome, "wscorpiao"
+  sagitario: "./img/sagitario.webp",
+  capricornio: "./img/capricornio.png",
+  aquario: "./img/aquario.png",
+  peixes: "./img/peixes.jpg"
+};
 
   const descricoes = {
     aries: "Mu é o Cavaleiro de Ouro que protege o Templo de Áries. Mestre da telecinese e da reconstrução de armaduras.",
