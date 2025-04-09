@@ -68,7 +68,7 @@ function MudaDesenho() {
     descricao.innerHTML = descricoes[signoEncontrado];
   } else {
     title.innerHTML = "Signo não encontrado";
-    image.setAttribute("src", "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Zodiac_signs_Constellation_Art.png/800px-Zodiac_signs_Constellation_Art.png");
+    image.setAttribute("src", "./img/x.webp");
     descricao.innerHTML = "Digite um signo válido para descobrir o Cavaleiro de Ouro correspondente.";
   }
 }
